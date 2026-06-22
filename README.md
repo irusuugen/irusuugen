@@ -1,20 +1,22 @@
 # hello, im michelle! 
 <b>studying computer science @ nanyang technological university, singapore</b>
 <br><br>
-my skills are focused on full-stack development with applied AI, particularly in computer vision. with a background in design, i like to create cool stuff that looks as good as they work. currently a ml engineer intern @ nhg health x a*star, and a mentee under paypal's career academy programme.
+<b>currently: ml engineer intern @ nhg health x a*star, and a mentee under paypal's career academy programme.</b>
+<br><br>
+my skills are focused on full-stack development with applied AI, particularly in computer vision. with a background in design, i like to create cool stuff that looks as good as they work. 
 
 # projects
 **personal:** 
-* [munch / sigma bites](https://github.com)
-* [nala learnscape](https://github.com)
-* [resnet](https://github.com)
-* [monster energy landing page](https://github.com)
+* [munch / sigma bites](https://github.com/WinterK0101/SigmaBites/tree/master)
+* [nala learnscape](https://github.com/yjjunnie/NALA-LearnScape)
+* [resnet](https://github.com/sellmenn/dlweek)
+* [monster energy landing page](https://github.com/irusuugen/monster-energy-landing)
 
 **academic:** 
-* [sc2001 algorithm design & analysis](https://github.com)
-* [sc2002 object-oriented design & programming](https://github.com)
-* [sc2006 software engineering](https://github.com)
-* [sc3000 artificial intelligence](https://github.com)
+* [sc2001 algorithm design & analysis](https://github.com/irusuugen/SC2001)
+* [sc2002 object-oriented design & programming](https://github.com/irusuugen/SC2002)
+* [sc2006 software engineering](https://github.com/irusuugen/Fitgram)
+* [sc3000 artificial intelligence](https://github.com/Ronak004/Large-Scale-Graph-Optimization-and-Reinforcement-Learning)
 
 
 # tech stack
