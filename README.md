@@ -1,6 +1,6 @@
 # hello, im michelle! 
-<b>studying computer science @ nanyang technological university, singapore<b>
-<br>
+<b>studying computer science @ nanyang technological university, singapore</b>
+<br><br>
 my skills are focused on full-stack development with applied AI, particularly in computer vision. with a background in design, i like to create cool stuff that looks as good as they work. currently a ml engineer intern @ nhg health x a*star, and a mentee under paypal's career academy programme.
 
 # projects:
